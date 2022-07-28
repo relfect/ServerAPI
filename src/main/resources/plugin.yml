@@ -1,0 +1,6 @@
+name: CSMS
+version: '${project.version}'
+main: net.larr4k.villenium.ApiPlugin
+api-version: 1.16
+depend:
+  - PacketWrapper
